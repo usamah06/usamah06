@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @usamah
+- 👋 Hi, I’m Usamah
 - 👀 I’m interested in football , gyming , shooting 
 - 🌱 I’m currently learning javascript @ ITVarsity
 - 📫 How to reach me @usamah_.c 📷
